@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mini96
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in backend engineering and QA
+- 🌱 I’m currently learning Ruby on rails
 - 💞️ I’m looking to collaborate on any new projects you are working on
 
 <!---
